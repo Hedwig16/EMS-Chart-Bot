@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EMS-Chart-Bot/static/css/main.132f42b0.css",
+    "main.js": "/EMS-Chart-Bot/static/js/main.3a05d2f5.js",
+    "static/js/453.5ed62a5e.chunk.js": "/EMS-Chart-Bot/static/js/453.5ed62a5e.chunk.js",
+    "index.html": "/EMS-Chart-Bot/index.html",
+    "main.132f42b0.css.map": "/EMS-Chart-Bot/static/css/main.132f42b0.css.map",
+    "main.3a05d2f5.js.map": "/EMS-Chart-Bot/static/js/main.3a05d2f5.js.map",
+    "453.5ed62a5e.chunk.js.map": "/EMS-Chart-Bot/static/js/453.5ed62a5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.132f42b0.css",
+    "static/js/main.3a05d2f5.js"
+  ]
+}
